@@ -1,1 +1,1 @@
-Update .doctrine-project.json versions for the website on 4/29/2019
+Fix wrong element deletion in popFirst and popLast on 5/7/2019
