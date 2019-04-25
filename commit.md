@@ -1,1 +1,1 @@
-Don't use ignore-platform-reqs when installing mongo-php-adapter on 5/16/2019
+Fix spacing around ! operator on 5/23/2019
