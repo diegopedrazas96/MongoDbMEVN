@@ -1,1 +1,1 @@
-Don't use ignore-platform-reqs when installing mongo-php-adapter on 5/16/2019
+Log status in the catch block in JSThread::run() on 6/5/2019
