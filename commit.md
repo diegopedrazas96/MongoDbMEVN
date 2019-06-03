@@ -1,1 +1,1 @@
-Fix spacing around ! operator on 5/23/2019
+12 elements changed on 5/27/2019
